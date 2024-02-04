@@ -1,2 +1,6 @@
-﻿# Social-Network-App
+asgiref==3.5.2
+Django==3.0.2
+Pillow==9.1.1
+pytz==2022.1
+sqlparse==0.4.2
 
